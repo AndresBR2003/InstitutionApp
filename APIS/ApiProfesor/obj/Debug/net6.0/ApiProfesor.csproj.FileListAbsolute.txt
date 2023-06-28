@@ -1,0 +1,138 @@
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.csproj.AssemblyReference.cache
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.AssemblyInfoInputs.cache
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.AssemblyInfo.cs
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.csproj.CoreCompileInputs.cache
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\appsettings.json
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\ApiProfesor.exe
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\ApiProfesor.deps.json
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\ApiProfesor.runtimeconfig.json
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\ApiProfesor.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\ApiProfesor.pdb
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Humanizer.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets\msbuild.ApiProfesor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiProfesor.props
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiProfesor.props
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiProfesor.props
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\scopedcss\bundle\ApiProfesor.styles.css
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.csproj.CopyComplete
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\refint\ApiProfesor.dll
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.pdb
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.genruntimeconfig.cache
+C:\Users\brice\OneDrive\Documentos\CIBERTEC 2023-1\Desarrollo de Servicios Web I\Proyecto\APIS\ApiProfesor\obj\Debug\net6.0\ref\ApiProfesor.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\appsettings.Development.json
+D:\APIS\ApiProfesor\bin\Debug\net6.0\appsettings.json
+D:\APIS\ApiProfesor\bin\Debug\net6.0\ApiProfesor.exe
+D:\APIS\ApiProfesor\bin\Debug\net6.0\ApiProfesor.deps.json
+D:\APIS\ApiProfesor\bin\Debug\net6.0\ApiProfesor.runtimeconfig.json
+D:\APIS\ApiProfesor\bin\Debug\net6.0\ApiProfesor.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\ApiProfesor.pdb
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Humanizer.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.csproj.AssemblyReference.cache
+D:\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.GeneratedMSBuildEditorConfig.editorconfig
+D:\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.AssemblyInfoInputs.cache
+D:\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.AssemblyInfo.cs
+D:\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.csproj.CoreCompileInputs.cache
+D:\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.MvcApplicationPartsAssemblyInfo.cs
+D:\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.MvcApplicationPartsAssemblyInfo.cache
+D:\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets\msbuild.ApiProfesor.Microsoft.AspNetCore.StaticWebAssets.props
+D:\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiProfesor.props
+D:\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiProfesor.props
+D:\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiProfesor.props
+D:\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets.pack.json
+D:\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets.build.json
+D:\APIS\ApiProfesor\obj\Debug\net6.0\staticwebassets.development.json
+D:\APIS\ApiProfesor\obj\Debug\net6.0\scopedcss\bundle\ApiProfesor.styles.css
+D:\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.csproj.CopyComplete
+D:\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.dll
+D:\APIS\ApiProfesor\obj\Debug\net6.0\refint\ApiProfesor.dll
+D:\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.pdb
+D:\APIS\ApiProfesor\obj\Debug\net6.0\ApiProfesor.genruntimeconfig.cache
+D:\APIS\ApiProfesor\obj\Debug\net6.0\ref\ApiProfesor.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\AutoMapper.dll
+D:\APIS\ApiProfesor\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
